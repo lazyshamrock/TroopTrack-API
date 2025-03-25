@@ -1,5 +1,7 @@
 trooptrack_openapi.json
 node_modeules/
+.DS_Store
+.env
 
 # Logs
 logs
